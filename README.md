@@ -16,7 +16,7 @@
 >## **More About Me**
 - Gamer, mostly RPGs
 - Twitch Streamer 
-- Security guard at EDM venue on the weekends
+- Security guard at EDM venue
 - PC Enthusiast 
   
 >## **PC Specs** 💖

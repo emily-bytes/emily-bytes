@@ -1,7 +1,7 @@
 
 
 >## **About Me** 🔥 
-- Hello everyone, I'm Emily (she/her) and I was raised internationally in Korea, Japan, Germany, and the US. However, I consider Seattle my home since I've lived here the longest. After serving in the military as a Behavioral Health Consultant and Therapist, I decided to move back to Washington and change careers. Within the past year, I have successfully completed Programming Boot camp and earned a Certificate in Computer Science Fundamentals at Seattle University. I am currently enrolled in the Ops and Cybersecurity program at Code Fellows and start the Master of Computer Science Program at SU in the fall. I am a life-long student and won't miss out on an opportunity to expand my knowledge! 
+- Hi, I'm Emily (she/her) and I was raised internationally in Korea, Japan, Germany, and the US. However, I consider Seattle my home since I've lived here the longest. After serving in the military as a Behavioral Health Consultant and Therapist, I decided to move back to Washington and change careers. Within the past year, I have successfully completed Programming Boot camp and earned a Certificate in Computer Science Fundamentals at Seattle University. I am currently enrolled in the Ops and Cybersecurity program at Code Fellows and start the Master of Computer Science Program at SU in the fall. I am a life-long student and won't miss out on an opportunity to expand my knowledge! 
 
 >## **What I'm Working On** 🧑‍💻
 - CompTIA Network+
@@ -28,6 +28,7 @@
 - WD Black - M.2 1 TB
 - Lian Li - O11 Dynamic Case 
 - Lian Li - Uni Fan SL 120
+- Lian Li - Galahad AIO UNI Fan SL Edition 240
 - SteelSeries - Apex 7 Mechanical Gaming Keyboard
 - Sennheiser HD 660 S Headphone
 - AudioQuest Dragonfly Red v1.0 DAC

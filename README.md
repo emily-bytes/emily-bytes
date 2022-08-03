@@ -31,6 +31,8 @@
 - SteelSeries - Apex 7 Mechanical Gaming Keyboard
 - Sennheiser HD 660 S Headphone
 - AudioQuest Dragonfly Red v1.0 DAC
+- Kanto YU2 Powered Desktop Speakers 
+- Kanto SUB6 6-inch Powered Subwoofer
 - Logitech BRIO - Ultra HD Webcam 
 - HyperX QuadCast S - RGB USB Condenser Microphone 
 - Logitech - G600 MMO Gaming Mouse 

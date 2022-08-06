@@ -31,6 +31,7 @@
 - Lian Li - Galahad AIO UNI Fan SL Edition 240
 - Lian Li - Uni Fan SL 120
 - Lian Li - O11 Dynamic Case 
+- Samsung 49-inch Odyssey G9 Gaming Monitor 
 - SteelSeries - Apex 7 Mechanical Gaming Keyboard
 - Logitech - G600 MMO Gaming Mouse 
 - Logitech BRIO - Ultra HD Webcam 

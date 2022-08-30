@@ -24,7 +24,7 @@
   
 >## **PC Specs** 💖
 - AMD Ryzen 9 5950X CPU
-- Gigabyte - B450 Aorus Pro Motherboard
+- Gigabyte - B550 Aorus Pro Motherboard
 - G.Skill - Trident Z Neo 64GB (2 x 32GB) DDR4
 - MSI GeForce RTX 3080 GPU
 - WD Black - M.2 1 TB

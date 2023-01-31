@@ -19,7 +19,7 @@
 - Logitech G Pro Superlight Wireless Gaming Mouse  
 - Logitech BRIO Ultra HD Webcam 
 - Sennheiser HD 660 S Headphone
-- AudioQuest Dragonfly Red v1.0 DAC
+- AudioQuest Dragonfly Cobalt USB DAC
 - Kanto YU2 Powered Desktop Speakers 
 - Kanto SUB6 6-inch Powered Subwoofer
 - HyperX QuadCast S - RGB USB Condenser Microphone 

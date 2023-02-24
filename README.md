@@ -6,8 +6,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emily-bytes&layout=compact&theme=radical&hide=Ccard_width=800)](https://github.com/emily-bytes/github-readme-stats)
 
 >## **Certifications** 
->- CompTIA Security+ 
->- CompTIA Network+
+- CompTIA Security+ 
+- CompTIA Network+
   
 >## **PC Specs** 
 - AMD Ryzen 9 5950X CPU

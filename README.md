@@ -1,7 +1,7 @@
 
 
 >## **About Me** 
-- Hi, I'm Emily (she/her) and I was raised internationally in Korea, Japan, Germany, and the US. However, I consider Seattle my home since I've lived here the longest. After serving in the military as a Behavioral Health Consultant and Therapist, I decided to move back to Washington and change careers. Within the past two years, I have successfully completed Programming Boot Camp and earned a Certificate in Computer Science Fundamentals at Seattle University. I was further explosed to operations and networking with Code Fellows during the summer and am now enrolled in the Master of Science in Computer Science Program at SU. My expected graduation is June 2024. I am a life-long student and won't miss out on an opportunity to expand my knowledge! 
+- Hi, I'm Emily (she/her), and my upbringing spans across Korea, Japan, Germany, and the U.S., however Seattle holds a special place in my heart as my longest-standing home. Transitioning from a role as a Behavioral Health Consultant and Therapist in the military, I returned to Washington with a new career path in mind. Over the past three years, I have immersed myself in the world of technology, completing Programming Boot Camp and earning a Certificate in Computer Science Fundamentals from Seattle University. Delving deeper, I honed my skills in operations and networking through Code Fellows's Cybersecurity Engineering Program. Currently, I am pursuing a Master of Science in Computer Science Degree at SU, slated to graduate in June 2024. I am a life-long student and won't miss out on an opportunity to expand my knowledge! 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emily-bytes&layout=compact&theme=radical&hide=Ccard_width=800)](https://github.com/emily-bytes/github-readme-stats)
 
@@ -19,7 +19,7 @@
 - Lian Li - Uni Fan SL 120
 - Lian Li - O11 Dynamic Case 
 - Samsung 49-inch Odyssey G9 Gaming Monitor 
-- SteelSeries - Apex 7 Mechanical Gaming Keyboard
+- Wooting Two HE Keyboard
 - Logitech G Pro Superlight Wireless Gaming Mouse  
 - Logitech BRIO Ultra HD Webcam 
 - Sennheiser HD 660 S Headphone

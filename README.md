@@ -1,10 +1,3 @@
-
-
->## **About Me** 
-- Hi, I'm Emily (she/her), and my upbringing spans across Korea, Japan, Germany, and the U.S., however Seattle holds a special place in my heart as my longest-standing home. Transitioning from a role as a Behavioral Health Consultant and Therapist in the military, I returned to Washington with a new career path in mind. Over the past three years, I have immersed myself in the world of technology, completing Programming Boot Camp and earning a Certificate in Computer Science Fundamentals from Seattle University. Delving deeper, I honed my skills in operations and networking through Code Fellows's Cybersecurity Engineering Program. Currently, I am pursuing a Master of Science in Computer Science Degree at SU, slated to graduate in June 2024. I am a life-long student and won't miss out on an opportunity to expand my knowledge! 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emily-bytes&layout=compact&theme=radical&hide=Ccard_width=800)](https://github.com/emily-bytes/github-readme-stats)
-
 >## **Certifications** 
 - CompTIA Security+ 
 - CompTIA Network+

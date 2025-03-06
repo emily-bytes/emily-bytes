@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emily-bytes&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emily-bytes&layout=compact&count_private=true&token=${{ secrets.GITHUB_STATS_TOKEN }})
 
 
 >## **Certifications** 

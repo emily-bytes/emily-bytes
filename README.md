@@ -1,5 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emily-bytes&layout=compact&count_private=true&token=${{ secrets.STATS_TOKEN }})
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
 >## **Certifications** 
 - CompTIA Security+ 
